@@ -1,0 +1,4558 @@
+[{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e2"
+  },
+  "title": "Rosół (Polish Chicken Soup)",
+  "category": "Chicken",
+  "area": "Polish",
+  "instructions": "Add chicken to a large Dutch oven or stock pot \r\nCover with water\r\nBring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth\r\nIf your pot is big enough, add the vegetables and spices for the last hour of the cooking time\r\nMy Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately\r\nStrain everything out of the broth\r\nBone the chicken, pulling the meat into large chunks\r\nSlice the carrots\r\nReturn the chicken and carrots to the broth\r\nCook noodles according to package instructions if you’re using them\r\nAdd noodles to bowl and then top with hot soup",
+  "description": "A comforting Polish soup, Rosół is a clear broth made from chicken, vegetables, and herbs, and typically served with noodles or dumplings.",
+  "thumb": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/enzs1xquqclemlc6ltzm.jpg",
+  "time": "150",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=AU60fxyxXGw",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3695"
+      },
+      "measure": "4 Chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372e"
+      },
+      "measure": "2 large"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "5 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3710"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e368a"
+      },
+      "measure": "1 small"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f5"
+      },
+      "measure": "1/4 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a7"
+      },
+      "measure": "1 whole"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3860"
+      },
+      "measure": "1tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "4 sprigs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c1"
+      },
+      "measure": "4 sprigs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1 tbs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e5"
+  },
+  "title": "Japanese gohan rice",
+  "category": "Side",
+  "area": "Japanese",
+  "instructions": "STEP 1\r\nRinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear.\r\n\r\nSTEP 2\r\nTip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins. Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir. Serve with any or all of the optional toppings.",
+  "description": "A staple in Japanese cuisine, Gohan rice is a short-grain, sticky rice that is commonly served alongside main dishes or used as a base for sushi.",
+  "thumb": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/swxaieel1yyrsxhvd3b5.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=rZO86_-MIp0",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3892"
+      },
+      "measure": "300g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f7"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3889"
+      },
+      "measure": "Garnish"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "Garnish"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e6"
+  },
+  "title": "Japanese Katsudon",
+  "category": "Pork",
+  "area": "Japanese",
+  "instructions": "STEP 1\r\nHeat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats.\r\n\r\nSTEP 2\r\nTip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick.",
+  "description": "Katsudon is a popular Japanese dish consisting of a bowl of rice topped with a deep-fried pork cutlet, egg, and onions cooked in a sweet and savory sauce.",
+  "thumb": "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561440/xov69u72u9youholacex.jpg",
+  "time": "15",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=voE-MBJqBVk",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 large"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365e"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378a"
+      },
+      "measure": "150ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e376c"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f7"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2 Beaten "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3892"
+      },
+      "measure": "200g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e382b"
+      },
+      "measure": "Chopped"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e8"
+  },
+  "title": "Mustard champ",
+  "category": "Side",
+  "area": "Irish",
+  "instructions": "STEP 1\r\nBoil the potatoes for 15 mins or until tender. Drain, then mash.\r\n\r\nSTEP 2\r\nHeat the milk and half the butter in the corner of the pan, then beat into the mash, along with the wholegrain mustard.\r\n\r\nSTEP 3\r\nGently fry the spring onions in the remaining butter for 2 mins until just soft but still a perky green. Fold into the mash and serve. Great with gammon or to top a fish pie.",
+  "description": "Mustard champ is a classic Irish side dish made with mashed potatoes, scallions, and wholegrain mustard, perfect to pair with any main course.",
+  "thumb": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/hokhddbeef419r561hak.jpg",
+  "time": "20",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=_iKllHSC978",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "1kg"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "200ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "50g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3727"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "Bunch"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e7"
+  },
+  "title": "Ham hock colcannon",
+  "category": "Pork",
+  "area": "Irish",
+  "instructions": "STEP 1\r\nPeel and cut the potatoes into even, medium-sized chunks. Put in a large pan filled with cold salted water, bring to the boil and cook for 10-15 mins until a knife can be inserted into the potatoes easily.\r\n\r\nSTEP 2\r\nMeanwhile, melt the butter in a large sauté pan over a medium heat. Add the garlic, cabbage, spring onions and some seasoning. Stir occasionally until the cabbage is wilted but still retains a little bite, then set aside.\r\n\r\nSTEP 3\r\nDrain the potatoes, leave to steam-dry for a couple of mins, then mash with the cream, mustard and seasoning in the same saucepan. Stir in the cabbage and ham hock. Keep warm over a low heat.\r\n\r\nSTEP 4\r\nReheat the pan you used to cook the cabbage (no need to wash first), add a splash of oil, crack in the eggs and fry to your liking. To serve, divide the colcannon between bowls and top each with a fried egg.",
+  "description": "Ham hock colcannon is a traditional Irish dish made with mashed potatoes and cabbage, mixed with shredded ham hock for a savory flavor and creamy texture.",
+  "thumb": "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/vwjkvgqq5u0dmpvutdme.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=aQJAU2iJ730",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d9"
+      },
+      "measure": "800g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "50g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "3 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f5"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "8"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c3"
+      },
+      "measure": "100ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3727"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37fd"
+      },
+      "measure": "180g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ea"
+  },
+  "title": "Boxty Breakfast",
+  "category": "Pork",
+  "area": "Irish",
+  "instructions": "STEP 1\r\nBefore you start, put your oven on its lowest setting, ready to keep things warm. Peel the potatoes, grate 2 of them, then set aside. Cut the other 2 into large chunks, then boil for 10-15 mins or until tender. Meanwhile, squeeze as much of the liquid from the grated potatoes as you can using a clean tea towel. Mash the boiled potatoes, then mix with the grated potato, spring onions and flour.\r\n\r\nSTEP 2\r\nWhisk the egg white in a large bowl until it holds soft peaks. Fold in the buttermilk, then add the bicarbonate of soda. Fold into the potato mix.\r\n\r\nSTEP 3\r\nHeat a large non-stick frying pan over a medium heat, then add 1 tbsp butter and some of the oil. Drop 3-4 spoonfuls of the potato mixture into the pan, then gently cook for 3-5 mins on each side until golden and crusty. Keep warm on a plate in the oven while you cook the next batch, adding more butter and oil to the pan before you do so. You will get 16 crumpet-size boxty from the mix. Can be made the day ahead, drained on kitchen paper, then reheated in a low oven for 20 mins.\r\n\r\nSTEP 4\r\nHeat the grill to medium and put the tomatoes in a heavy-based pan. Add a good knob of butter and a little oil, then fry for about 5 mins until softened. Grill the bacon, then pile onto a plate and keep warm. Stack up the boxty, bacon and egg, and serve the tomatoes on the side.",
+  "description": "Boxty Breakfast is a traditional Irish breakfast dish made with grated potatoes, flour, and buttermilk, formed into pancakes and served with bacon, eggs, and black pudding.",
+  "thumb": "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561434/ulmbdmnjsclotg8sixli.jpg",
+  "time": "50",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=80W0mCFDIP0",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "4 large"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "1  bunch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3743"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c8"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "150ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3670"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3691"
+      },
+      "measure": "6"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3664"
+      },
+      "measure": "12"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3820"
+      },
+      "measure": "6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e9"
+  },
+  "title": "Coddled pork with cider",
+  "category": "Pork",
+  "area": "Irish",
+  "instructions": "STEP 1\r\nHeat the butter in a casserole dish until sizzling, then fry the pork for 2-3 mins on each side until browned. Remove from the pan.\r\n\r\nSTEP 2\r\nTip the bacon, carrot, potatoes and swede into the pan, then gently fry until slightly coloured. Stir in the cabbage, sit the chops back on top, add the bay leaf, then pour over the cider and stock. Cover the pan, then leave everything to gently simmer for 20 mins until the pork is cooked through and the vegetables are tender.\r\n\r\nSTEP 3\r\nServe at the table spooned straight from the dish.",
+  "description": "Coddled pork with cider is a comforting Irish dish of tender pork loin simmered with apples, onions, and cider until it's juicy and flavorful.",
+  "thumb": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/to5bs1wulmdrwxfgfhls.jpg",
+  "time": "25",
+  "popularity": 1,
+  "favorites": [
+    {
+      "$oid": "641853bb44a95ebcfa8b65b3"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "641853bb44a95ebcfa8b65b3"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=ftn_4mc-65o",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679485280256"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "Knob"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3874"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3664"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37fc"
+      },
+      "measure": "1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f5"
+      },
+      "measure": "1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3894"
+      },
+      "measure": "100ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3696"
+      },
+      "measure": "100g "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898eb"
+  },
+  "title": "Spring onion and prawn empanadas",
+  "category": "Seafood",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nTo make the dough, rub the butter into the flour and then add the egg white and half the yolk (keep the rest), vinegar, a pinch of salt and enough cold water to make a soft dough. Knead on a floured surface until smooth and then wrap and rest for 30 minutes.\r\n\r\nSTEP 2\r\n\r\nHeat the oven to 180c/fan 160c/gas 4. Trim the green ends of the spring onions and then finely slice the rest. Heat a little oil in a pan and fry them gently until soft but not browned. Add the chilli and garlic, stir and then add the prawns and cook until they are opaque. Season well. Scoop out the prawns and bubble the juices until they thicken, then add back the prawns.\r\n\r\nSTEP 3\r\n\r\nDivide the empanada dough into eight balls and roll out to thin circles on a floured surface. Put some filling on one half of the dough, sprinkle the feta on top and fold the other half over. Trim the edge and then fold and crimp the dough together so the empanada is tightly sealed, put it on an oiled baking sheet either on its side or sitting on its un-crimped edge like a cornish pasty. Repeat with the remaining dough and mixture. Mix the leftover egg yolk with a splash of water and brush the top of the empanadas.\r\n\r\nSTEP 4\r\n\r\nBake for 30 minutes or until golden and slightly crisp around the edges.",
+  "description": "Spring onion and prawn empanadas are a tasty Spanish dish of small pastries filled with a mixture of prawns, spring onions, and spices, perfect as a snack or appetizer.",
+  "thumb": "https://www.themealdb.com/images/media/meals/1c5oso1614347493.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/sjaruwdclkijah4hx9c3.jpg",
+  "time": "60",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=Q24haJU-1dI",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "1  bunch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "Dash"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374c"
+      },
+      "measure": "1 finely sliced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "1 clove"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3747"
+      },
+      "measure": "350g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d3"
+      },
+      "measure": "75g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "15g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3743"
+      },
+      "measure": "250g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3820"
+      },
+      "measure": "1 Seperated"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e385a"
+      },
+      "measure": "1/2 tsp"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ec"
+  },
+  "title": "Piri-piri chicken and slaw",
+  "category": "Chicken",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nWhizz together all of the marinade ingredients in a small food processor. Rub the marinade onto the chicken and leave for 1 hour at room temperature.\r\n\r\nSTEP 2\r\n\r\nHeat the oven to 190C/fan 170C/gas 5. Put the chicken in a roasting tray and cook for 1 hour 20 minutes. Rest under loose foil for 20 minutes. While the chicken is resting, mix together the slaw ingredients and season. Serve the chicken with slaw, fries and condiments.",
+  "description": "Piri-piri chicken and slaw is a spicy and flavorful Portuguese dish of grilled chicken marinated in a spicy piri-piri sauce, served with a fresh slaw of cabbage, carrots, and onions.",
+  "thumb": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/sisetgpkk3ccdbnyfocn.jpg",
+  "time": "80",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=_RKwKjskopk",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365b"
+      },
+      "measure": "1.5kg"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374c"
+      },
+      "measure": "3 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "2 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e8"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c4"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3733"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37c9"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372b"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374e"
+      },
+      "measure": "1 sliced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3895"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f5"
+      },
+      "measure": "4 leaves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e387a"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36f0"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b9"
+      },
+      "measure": "1 tsp "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ee"
+  },
+  "title": "Portuguese prego with green piri-piri",
+  "category": "Beef",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nRub the garlic over the steaks then put in a sandwich bag and tip in the olive oil, sherry vinegar and parsley stalks. Smoosh everything together, then use a rolling pin to bash the steaks a few times. Leave for 1-2 hours.\r\n\r\nSTEP 2\r\n\r\nTo make the sauce, put all the ingredients into a blender with 1 tbsp water and whizz until as smooth as possible. This will make more than you’ll need for the recipe but will keep for a week in an airtight jar.\r\n\r\nSTEP 3\r\n\r\nHeat a griddle or frying pan to high. Brush away the garlic and parsley stalks from the steaks and season well. Sear the steaks for 2 minutes on each side then rest on a plate. Put the ciabatta halves onto the plate, toasted-side down, to soak up any juices.\r\n\r\nSTEP 4\r\n\r\nSlice the steaks then stuff into the rolls with the green sauce and rocket.",
+  "description": "Portuguese prego with green piri-piri is a traditional sandwich of steak marinated in garlic and olive oil, served on a roll with spicy piri-piri sauce and sautéed onions.",
+  "thumb": "https://www.themealdb.com/images/media/meals/ewcikl1614348364.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561438/luxyx99bpydbz6avyeoj.jpg",
+  "time": "150",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=FbIKfcDEPLA",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "1 clove"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366d"
+      },
+      "measure": "2 small"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378e"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "Leaves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3897"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3758"
+      },
+      "measure": "2 handfulls"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3668"
+      },
+      "measure": "Small bunch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3704"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "2 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3687"
+      },
+      "measure": "1/2 tsp"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ef"
+  },
+  "title": "Fish fofos",
+  "category": "Seafood",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nPut the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.\r\n\r\nSTEP 2\r\n\r\nPut the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.\r\n\r\nSTEP 3\r\n\r\nHeat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown colour all over. Drain on kitchen paper and repeat with the remaining fofos.\r\n\r\nSTEP 4\r\n\r\nFor the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney.",
+  "description": "Fish fofos are a popular Portuguese dish of fish patties made with mashed potatoes, cod or hake, and herbs, fried until golden brown and crispy on the outside, soft and moist on the inside.",
+  "thumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/yb6szdkd5pj1izzevumw.jpg",
+  "time": "60",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=YXUZHK2PrV8",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3803"
+      },
+      "measure": "600g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "300g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36f2"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b9"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "3 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e8"
+      },
+      "measure": "2 pieces "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3679"
+      },
+      "measure": "75g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "For frying"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f0"
+  },
+  "title": "Portuguese barbecued pork (Febras assadas)",
+  "category": "Pork",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nCut the tenderloins into 5 equal-size pieces leaving the tail ends a little longer. Take a clear plastic bag and slip one of the pieces in. Bash it into an escalope the size of a side-plate with a rolling pin and repeat with the remaining pieces.\r\n\r\nSTEP 2\r\n\r\nPut the wine, paprika, some salt and pepper and the juice of ½ a lemon in a bowl and add the pork. Leave to marinate for 20-30 minutes, while you get your barbecue to the stage where the coals are glowing but there are no flames.\r\n\r\nSTEP 3\r\n\r\nTo make the chips, fill a basin with cool water and cut the potatoes into 3cm-thick chips. Soak them in the water for 5 minutes and then change the water. Leave for 5 more minutes. Drain and then pat dry on a towel or with kitchen paper.\r\n\r\nSTEP 4\r\n\r\nHeat the oil in a deep fryer or a deep heavy-based pan with a lid to 130C and lower the chips into the oil (in batches). Blanch for 8-10 minutes. Remove from the oil and drain well. Place on a tray to cool. Reheat the oil to 180C (make sure it’s hot or your chips will be soggy) and lower the basket of chips into the oil (again, do this in batches). Leave to cook for 2 minutes and then give them a little shake. Cook for another minute or so until they are well coloured and crisp to the touch. Drain well for a few minutes, tip into a bowl and sprinkle with sea salt.\r\n\r\nSTEP 5\r\n\r\nThe pork will cook quickly so do it in 2 batches. Take the pieces out of the marinade, rub them with oil, and drop them onto the barbecue (you could also use a chargrill). Cook for 1 minute on each side – they may flare up as you do so. This should really be enough time as they will keep on cooking. Take them off the barbecue and pile onto a plate. Repeat with the remaining batch.\r\n\r\nSTEP 6\r\n\r\nServe by piling a plate with chips, drop the pork on top of each pile and pouring the juices from the plate over so the chips take up the flavours. Top with a spoon of mayonnaise and a wedge of lemon.",
+  "description": "Febras assadas is a flavorful Portuguese dish of marinated pork loin grilled over charcoal until tender and juicy, served with a side of rice and fries.",
+  "thumb": "https://www.themealdb.com/images/media/meals/cybyue1614349443.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/d9sn8tavtdxwigm4uelv.jpg",
+  "time": "74",
+  "popularity": 0,
+  "favorites": [
+    {
+      "$oid": "641853bb44a95ebcfa8b65b3"
+    }
+  ],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=tVpsZaejyYU",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679329308015"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365e"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3794"
+      },
+      "measure": "200ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3733"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3711"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3712"
+      },
+      "measure": "1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "Dash"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e387a"
+      },
+      "measure": "To serve"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "1 kg"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "For frying"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f1"
+  },
+  "title": "Portuguese fish stew (Caldeirada de peixe)",
+  "category": "Seafood",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nHeat a drizzle of oil in a large, deep-sided frying pan, and fry the onion and pepper on a medium heat until softened but not browned. Finely chop the coriander stalks (keep the leaves for later), and add to the pan with the chilli and chopped garlic. Fry for another few minutes. Add the wine, saffron and bay leaf and let it simmer until reduced by half.\r\n\r\nSTEP 2\r\n\r\nAdd the potatoes, tomatoes, and 300ml water and bring to a gentle boil. Break up the tomatoes with a spoon on the side of the pan and simmer for 20-25 minutes until the potatoes are just tender, and the tomatoes have broken down.\r\n\r\nSTEP 3\r\n\r\nSeason well, then gently push the fish into the sauce, and arrange the squid, prawns, clams and mussels on the surface. Put the lid on and cook for 6-8 minutes until the mussel and clam shells have opened, the prawns are cooked and the fish is flaky. Toast the bread, rub lightly with the halved garlic clove and drizzle with olive oil. Serve the stew scatted with chopped coriander leaves, and the toasts for dunking.",
+  "description": "Caldeirada de peixe is a hearty Portuguese fish stew made with a variety of fresh fish, potatoes, tomatoes, onions, and herbs, simmered in a flavorful broth until the flavors meld together.",
+  "thumb": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561433/sgpiipripuvr46zsofw1.jpg",
+  "time": "40",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=utv-GpSJypk",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372e"
+      },
+      "measure": "2 finely chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374f"
+      },
+      "measure": "1 Diced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "Small bunch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374c"
+      },
+      "measure": "1 small"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "3 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c5"
+      },
+      "measure": "400ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375a"
+      },
+      "measure": "Pinch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "300g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3744"
+      },
+      "measure": "400g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3839"
+      },
+      "measure": "600g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37aa"
+      },
+      "measure": "300g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e382f"
+      },
+      "measure": "8"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37b9"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37a5"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f9"
+      },
+      "measure": "1 sliced"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ed"
+  },
+  "title": "Grilled Portuguese sardines",
+  "category": "Seafood",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\n\r\nPut all of the ingredients, except the sardines, into a bowl and mix together with some seasoning. Pour into a baking dish, add the sardines and toss really well. Cover and chill for a few hours.\r\n\r\nSTEP 2\r\n\r\nHeat a BBQ or griddle pan until hot. Cook the sardines for 4-5 minutes on each side or until really caramelised and charred. Put onto a serving plate, drizzle with oil, sprinkle with a little more paprika and squeeze over the lemon wedges.",
+  "description": "Grilled Portuguese sardines are a simple but delicious dish of fresh sardines grilled with olive oil, garlic, and lemon juice, perfect as a light and healthy meal.",
+  "thumb": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561433/sixgf9gzqalo76jigyxh.jpg",
+  "time": "142",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=JYtMjKa6cdY",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3896"
+      },
+      "measure": "8"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "3 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3733"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3711"
+      },
+      "measure": "1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37cb"
+      },
+      "measure": "4 sprigs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374c"
+      },
+      "measure": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f4"
+  },
+  "title": "Mee goreng mamak",
+  "category": "Seafood",
+  "area": "Malaysian",
+  "instructions": "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside.\r\n\r\nBlend fried ingredients with tamarind paste and water until fine. Then, sauté the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade.\r\n\r\nSkin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water.\r\n\r\nSlice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water.\r\n\r\nTo fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Sauté until fragrant. Optionally, add prawns.\r\n\r\nAdd in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Sauté for another 30 seconds.\r\n\r\nAdd noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards.",
+  "description": "A spicy and savory Malaysian dish of stir-fried noodles, vegetables, and meat or seafood. Flavored with a blend of spices, soy sauce, and chili paste, it is often served with a side of lime wedges and crispy fried shallots.",
+  "thumb": "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/ieyqiqqdc6wp5zuavcsy.jpg",
+  "time": "56",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=pOJEmDBgtSk",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373b"
+      },
+      "measure": "50g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e369b"
+      },
+      "measure": "15g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3747"
+      },
+      "measure": "10g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372b"
+      },
+      "measure": "5 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "750 ml "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3778"
+      },
+      "measure": "1/2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "250g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374e"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f5"
+      },
+      "measure": "30g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e369d"
+      },
+      "measure": "30g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3847"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e376c"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3853"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3820"
+      },
+      "measure": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f3"
+  },
+  "title": "Moroccan Carrot Soup",
+  "category": "Vegetarian",
+  "area": "Moroccan",
+  "instructions": "Step 1\r\nPreheat oven to 180° C.\r\nStep 2\r\nCombine carrots, onion, garlic, cumin seeds, coriander seeds, salt and olive oil in a bowl and mix well. Transfer on a baking tray.\r\nStep 3\r\nPut the baking tray in preheated oven and roast for 10-12 minutes or till carrots soften. Remove from heat and cool.\r\nStep 4\r\nGrind the baked carrot mixture along with some water to make a smooth paste and strain in a bowl.\r\nStep 5\r\nHeat the carrot mixture in a non-stick pan. Add two cups of water and bring to a boil. Add garam masala powder and mix. Add salt and mix well.\r\nStep 6\r\nRemove from heat, add lemon juice and mix well.\r\nStep 7\r\nServe hot.",
+  "description": "A hearty soup made with carrots, onions, garlic, and a blend of Moroccan spices like cumin, cinnamon, and ginger. Served hot with a dollop of yogurt and a sprinkle of cilantro for a touch of freshness.",
+  "thumb": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/jdmjmv0stscakg2gb3di.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=7tDWOpnIhok",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "6 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 sliced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b8"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e2"
+      },
+      "measure": "1/4 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3712"
+      },
+      "measure": "1 tsp "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f2"
+  },
+  "title": "Portuguese custard tarts",
+  "category": "Dessert",
+  "area": "Portuguese",
+  "instructions": "STEP 1\r\nRoll the pastry\r\nMix the flour and icing sugar, and use this to dust the work surface. Roll the pastry out to make a 45 x 30cm rectangle. Roll up lengthways to create a long sausage shape.\r\n\r\nSTEP 2\r\nCutting pastry into rounds\r\nCut the pastry into 24 wheels, about 1-2cm thick.\r\n\r\nSTEP 3\r\nRoll out each pastry portion\r\nRoll each wheel lightly with the rolling pin to fit 2 x 12-hole non-stick fairy cake tins.\r\n\r\nSTEP 4\r\nPress pastry into the tin\r\nPress the pastry circles into the tins and mould into the tins to make thin cases. Chill until needed.\r\n\r\nSTEP 5\r\nMake the infused syrup\r\nHeat the oven to 220C/fan 200C/gas 7. Make a sugar syrup by bringing the sugar, 200ml water, lemon zest and cinnamon stick to the boil. Reduce until syrupy, allow to cool, then remove the cinnamon and lemon. Whisk the eggs, egg yolks and cornflour until smooth in another large pan.\r\n\r\nSTEP 6\r\nMaking custard\r\nHeat the milk and vanilla pod seeds in a separate pan until just below the boil. Gradually pour the hot milk over the eggs and cornflour, then cook on a low heat, continually whisking.\r\n\r\nSTEP 7\r\nAdd syrup to custard\r\nAdd the cooled sugar syrup to the custard and whisk until thickened slightly.\r\n\r\nSTEP 8\r\nPour custard into the tins\r\nPour the custard through a sieve. Pour into the pastry cases and bake for 15 minutes until the pastry is golden and the custard has darkened.\r\n\r\nSTEP 9\r\ncool and dust with icing sugar\r\nCool completely in the tins then sift over icing sugar and ground cinnamon to serve.\r\n\r\n\r\n\r\n ",
+  "description": "Portuguese custard tarts, also known as Pastéis de nata, are a classic Portuguese dessert of crisp",
+  "thumb": "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/euf9tuse6kxlkwz4ftzg.jpg",
+  "time": "50",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=lWLCxui1Mw8",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3743"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e379d"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3748"
+      },
+      "measure": "375g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3687"
+      },
+      "measure": "250g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3713"
+      },
+      "measure": "2 strips"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a5"
+      },
+      "measure": "1 Stick"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c9"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37a4"
+      },
+      "measure": "50g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3795"
+      },
+      "measure": "500ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3785"
+      },
+      "measure": "Pod of"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f5"
+  },
+  "title": "Apam balik",
+  "category": "Dessert",
+  "area": "Malaysian",
+  "instructions": "Mix milk, oil and egg together. Sift flour, baking powder and salt into the mixture. Stir well until all ingredients are combined evenly.\r\n\r\nSpread some batter onto the pan. Spread a thin layer of batter to the side of the pan. Cover the pan for 30-60 seconds until small air bubbles appear.\r\n\r\nAdd butter, cream corn, crushed peanuts and sugar onto the pancake. Fold the pancake into half once the bottom surface is browned.\r\n\r\nCut into wedges and best eaten when it is warm.",
+  "description": "A popular Malaysian dessert made with a crispy and fluffy pancake-like batter, filled with sweet roasted peanuts, sugar, and creamed corn. Served hot, folded in half and drizzled with sweet syrup or condensed milk.",
+  "thumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/hzprrtagxfjzzxmitb96.jpg",
+  "time": "10",
+  "popularity": 6,
+  "favorites": [
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "6411fef75848f7534c62c591"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "6411bdf6bf96bc80bc37a451"
+    },
+    {
+      "$oid": "6411fef75848f7534c62c591"
+    },
+    {
+      "$oid": "64130ae3dc4701f712098976"
+    },
+    {
+      "$oid": "6412ce7b1688c90e5427b00b"
+    },
+    {
+      "$oid": "6413121edc4701f712098c82"
+    },
+    {
+      "$oid": "641807a63c1d9f12cba908c8"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=6R8ffRRJcrg",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679488769661"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "200ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372b"
+      },
+      "measure": "60ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "1600g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3665"
+      },
+      "measure": "3 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3828"
+      },
+      "measure": "25g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "45g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3739"
+      },
+      "measure": "3 tbs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f6"
+  },
+  "title": "Ayam Percik",
+  "category": "Chicken",
+  "area": "Malaysian",
+  "instructions": "In a blender, add the ingredients for the spice paste and blend until smooth.\r\nOver medium heat, pour the spice paste in a skillet or pan and fry for 10 minutes until fragrant. Add water or oil 1 tablespoon at a time if the paste becomes too dry. Don't burn the paste. Lower the fire slightly if needed.\r\nAdd the cloves, cardamom, tamarind pulp, coconut milk, water, sugar and salt. Turn the heat up and bring the mixture to boil. Turn the heat to medium low and simmer for 10 minutes. Stir occasionally. It will reduce slightly. This is the marinade/sauce, so taste and adjust seasoning if necessary. Don't worry if it's slightly bitter. It will go away when roasting.\r\nWhen the marinade/sauce has cooled, pour everything over the chicken and marinate overnight to two days.\r\nPreheat the oven to 425 F.\r\nRemove the chicken from the marinade. Spoon the marinade onto a greased (or aluminum lined) baking sheet. Lay the chicken on top of the sauce (make sure the chicken covers the sauce and the sauce isn't exposed or it'll burn) and spread the remaining marinade on the chicken. Roast for 35-45 minutes or until internal temp of the thickest part of chicken is at least 175 F.\r\nLet chicken rest for 5 minutes. Brush the chicken with some of the oil. Serve chicken with the sauce over steamed rice (or coconut rice).",
+  "description": "A traditional Malaysian grilled chicken dish, marinated with a flavorful blend of spices and coconut milk, then grilled over an open flame. Served with a side of tangy and spicy peanut sauce for dipping.",
+  "thumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561434/sxemy6hph0zuezd9fq6q.jpg",
+  "time": "60",
+  "popularity": 1,
+  "favorites": [
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "640e10b12752a54004e7b2bc"
+    },
+    {
+      "$oid": "6411fef75848f7534c62c591"
+    },
+    {
+      "$oid": "641a007ceefa4b0ab8eaa6f1"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "6412d0ed1688c90e5427b75f"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=9ytR28QK6I8",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679434797453"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3697"
+      },
+      "measure": "6"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e368c"
+      },
+      "measure": "16"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e8"
+      },
+      "measure": "1 1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "6"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3688"
+      },
+      "measure": "8"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3782"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b8"
+      },
+      "measure": "1 1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "1 1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37c8"
+      },
+      "measure": "1 1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3778"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ab"
+      },
+      "measure": "1 can "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "1 cup "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f8"
+  },
+  "title": "Roti john",
+  "category": "Beef",
+  "area": "Malaysian",
+  "instructions": "Mix all the ingredients in a bowl.\r\nHeat a pan or griddle with a little vegetable oil.\r\nPour the mixture onto the pan and place a piece of open-faced baguette on top.\r\nPress on the bread with a spatula and grill for 2 minutes.\r\nTurn the bread over to make it a little crispy.\r\nRemove from pan and cut the bread into small portions.\r\nAdd mayonnaise and/or Sambal before cutting the sandwich (optional).",
+  "description": "A popular Malaysian street food, consisting of a long loaf of bread filled with a mixture of eggs, onions, and meat like beef or chicken. Served hot and crispy, often with a side of chili sauce or mayonnaise.",
+  "thumb": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/zjzzmfxauwwpyfwisbvx.jpg",
+  "time": "4",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=cl4YH8wblRs",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37c2"
+      },
+      "measure": "1/4 lb"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e369b"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37f9"
+      },
+      "measure": "1/2 "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "To taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "To taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e387a"
+      },
+      "measure": "Top"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f9"
+  },
+  "title": "Seri muka kuih",
+  "category": "Dessert",
+  "area": "Malaysian",
+  "instructions": "Soak glutinous rice with water for at least 1 ½ hours prior to using. Drain.\r\nPrepare a 9-inch round or square cake pan and spray with cooking spray or line with plastic wrap.\r\nMix coconut milk, water, salt and the rice. Pour it into cake pan, topped with the pandan knots.\r\nSteam for 30 minutes.\r\nAfter 30 minutes, fluff up the rice and remove pandan knots. Then, using a greased spatula, flatten the steamed rice. Make sure there are no holes/air bubbles and gaps in the rice, especially the sides.\r\nSteam for another 10 minutes.\r\n\r\nCombine pandan juice, coconut milk, all purpose flour, cornflour, and sugar. Mix well.\r\nAdd eggs and whisk well then strain into a medium sized metal bowl or pot.\r\nPlace pandan mixture over simmering water (double boiler or bain-marie)\r\nStir continuously and cook till custard starts to thicken. (15 minutes)\r\nPour pandan custard into glutinous rice layer, give it a little tap (for air bubbles) and continue to steam for 30 minutes.\r\nRemove kuih seri muka from the steamer and allow to cool completely before cutting into rectangles or diamond shapes.",
+  "description": "A traditional Malaysian kuih or dessert, made with glutinous rice, coconut milk, and pandan leaves. The bottom layer is a sweet green custard, while the top layer is made with sticky rice and often sprinkled with toasted coconut.",
+  "thumb": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/t1a7oph0jhaflqpqd5qv.jpg",
+  "time": "135",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=_NJtCfqgaBo",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3753"
+      },
+      "measure": "400g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ab"
+      },
+      "measure": "150ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "100ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37a4"
+      },
+      "measure": "5 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36aa"
+      },
+      "measure": "200ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "140g"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898fa"
+  },
+  "title": "Beef Rendang",
+  "category": "Beef",
+  "area": "Malaysian",
+  "instructions": "Chop the spice paste ingredients and then blend it in a food processor until fine.\r\nHeat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat.\r\nLower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight.",
+  "description": "A spicy and aromatic Indonesian curry made with tender beef slow-cooked in coconut milk and a blend of flavorful spices like lemongrass, galangal, and turmeric. Served with a side of steamed rice for a hearty meal.",
+  "thumb": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/y7ytkxdg8brzbzxhvylv.jpg",
+  "time": "120",
+  "popularity": 12,
+  "favorites": [
+    {
+      "$oid": "640e11282752a54004e7b2be"
+    },
+    {
+      "$oid": "6411fef75848f7534c62c591"
+    },
+    {
+      "$oid": "64124dc022ca74f19bf4e02d"
+    },
+    {
+      "$oid": "6412131bf5f602afeb51322b"
+    },
+    {
+      "$oid": "64136b81f9ab2e3d387206df"
+    },
+    {
+      "$oid": "64135631f9ab2e3d387201b9"
+    },
+    {
+      "$oid": "6412cb161688c90e5427aee2"
+    },
+    {
+      "$oid": "64175083db880553c84f5bc8"
+    },
+    {
+      "$oid": "64188a98f48d9be56b60816e"
+    },
+    {
+      "$oid": "6418b289bea08434b0a7eb66"
+    },
+    {
+      "$oid": "6418b11ad139a9eed6c3fa8b"
+    },
+    {
+      "$oid": "6418bf1963d5b7b1e97c5ca7"
+    },
+    {
+      "$oid": "641970802264c318da9ac920"
+    },
+    {
+      "$oid": "6418cedb63d5b7b1e97c613a"
+    },
+    {
+      "$oid": "6418d67063d5b7b1e97c644c"
+    },
+    {
+      "$oid": "6418a4dfe05e5b3d5b47adf0"
+    },
+    {
+      "$oid": "6418bfaa63d5b7b1e97c5cce"
+    },
+    {
+      "$oid": "6418d60563d5b7b1e97c6403"
+    },
+    {
+      "$oid": "641974ef3c03cc641f8a52fa"
+    },
+    {
+      "$oid": "641b56b15ece70f6eef42433"
+    },
+    {
+      "$oid": "6418b0a8bea08434b0a7eaaa"
+    },
+    {
+      "$oid": "641c0f3ac83e9c3d1a649f1b"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "640f760b24894df9da7b4f82"
+    },
+    {
+      "$oid": "6412fd2d79030e6a7b295474"
+    },
+    {
+      "$oid": "6412131bf5f602afeb51322b"
+    },
+    {
+      "$oid": "64135631f9ab2e3d387201b9"
+    },
+    {
+      "$oid": "6412cb161688c90e5427aee2"
+    },
+    {
+      "$oid": "6412ce7b1688c90e5427b00b"
+    },
+    {
+      "$oid": "641807a63c1d9f12cba908c8"
+    },
+    {
+      "$oid": "6418b11ad139a9eed6c3fa8b"
+    },
+    {
+      "$oid": "6418bf1963d5b7b1e97c5ca7"
+    },
+    {
+      "$oid": "6418b289bea08434b0a7eb66"
+    },
+    {
+      "$oid": "641974ef3c03cc641f8a52fa"
+    },
+    {
+      "$oid": "641c0f3ac83e9c3d1a649f1b"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=Ot-dmfBaZrA",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679562346389"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365d"
+      },
+      "measure": "1lb"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "5 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a6"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a7"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e382e"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3683"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36aa"
+      },
+      "measure": "1 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "1 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3778"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3716"
+      },
+      "measure": "6"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e368c"
+      },
+      "measure": "5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898fb"
+  },
+  "title": "Cevapi Sausages",
+  "category": "Beef",
+  "area": "Croatian",
+  "instructions": "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper.\r\nMix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator.\r\nTake portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ ¼ cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled.\r\nGrill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time.\r\nServe hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes.",
+  "description": "A popular Bosnian grilled meat dish made with small, skinless sausages, typically made with a mixture of beef and lamb. Served hot in a traditional Bosnian flatbread called somun, with a side of raw onions and ajvar sauce.",
+  "thumb": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561440/nrynmhngpubv5igggqkh.jpg",
+  "time": "70",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=_MpSxSgS7f8",
+  "tags": [
+    "Sausages"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37c2"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3833"
+      },
+      "measure": "250g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "4 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "3 tblsp chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3733"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3665"
+      },
+      "measure": "3/4 teaspoon"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3679"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378b"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1 tsp "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898fc"
+  },
+  "title": "Croatian lamb peka",
+  "category": "Beef",
+  "area": "Croatian",
+  "instructions": "Preheat oven to 200°C fan / 220°C / 425°F / Gas mark 7\r\nIf you have not bought diced lamb, cut your lamb shoulder or leg into large chunks and place to one side.\r\nChunks of chopped lamb of a red chopping board\r\nMake oil marinade -\r\nMix 80ml of olive oil in a bowl with garlic puree, sundried tomato puree ,black pepper and salt.\r\nolive oil, gia sundried tomato puree and gia garlic puree and black pepper mixed together in a silver bowl to make Croatian peka\r\nAdd potatoes and vegetables into a large lidded casserole dish.\r\nChopped up vegetables which consist of chopped up red onion, courgette, potatoes red peppers in a cast iron pan\r\nPlace diced lamb on top of the vegetables, pour the marinade and wine over the top.\r\nChunks of lamb covered in in a sundried tomato oil sauce which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan\r\nAdd the rosemary, thyme and sage, trying to keep the herbs on top.\r\nSo you can easily remove the herb stalks once cooked.\r\nChunks of lamb coated in a sundried tomato oil sauce and covered with thyme, rosemary and sage which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan\r\nPlace lid on the casserole dish and cook for 1hr 30 minute\r\nIf you do not have a lid cover very well with kitchen foil\r\nCast iron dish with lid on in the oven\r\nTake the lid off, remove any thick herb stems. Stir in 2 tbsp of olive oil.\r\nCook for a further 20-30 mins.\r\nCooked Croatian Lamb Peka in a cast iron pan in the oven\r\nServe with fresh homemade bread to dip into the juices.",
+  "description": "A slow-cooked Croatian dish of lamb and vegetables, cooked in a special metal or clay pot called a peka. The dish is cooked over an open flame, with hot coals placed on top of the pot, resulting in tender and flavorful meat with a crispy outer layer.",
+  "thumb": "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/nvuqvjwwo3ct6e0xgmn7.jpg",
+  "time": "110",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=K0ipnz4fwJI",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "600g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37e7"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37e6"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3662"
+      },
+      "measure": "1 small"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 Large Chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37be"
+      },
+      "measure": "800g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e6"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377e"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "80 ml "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377c"
+      },
+      "measure": "Sprinking"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3794"
+      },
+      "measure": "250ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "Pinch"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898fd"
+  },
+  "title": "Croatian Bean Stew",
+  "category": "Beef",
+  "area": "Croatian",
+  "instructions": "Heat the oil in a pan. Add the chopped vegetables and sauté until tender. Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat. Or, put it in an oven and bake it at a temperature of 180ºC/350ºF for 30 minutes. This dish is even better reheated the next day.",
+  "description": "Croatian Bean Stew is a hearty and flavorful dish made with beans, smoked meat, and vegetables, slow-cooked until tender and served with crusty bread. It's a perfect comfort food for cold days.",
+  "thumb": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561440/jxeyqtb3vxuawbg1nnlc.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=mrjnQal3S1A",
+  "tags": [
+    "Warming",
+    " Soup",
+    " Beans"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3682"
+      },
+      "measure": "2 cans"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377f"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e368c"
+      },
+      "measure": "5"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "2 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "Pinch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a2"
+      },
+      "measure": "1/2 kg chopped "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898fe"
+  },
+  "title": "Traditional Croatian Goulash",
+  "category": "Beef",
+  "area": "Croatian",
+  "instructions": "Clean the meat from the veins if there are some and cut it into smaller pieces, 3 × 3 cm. Marinate the meat in the mustard and spices and let it sit in the refrigerator for one hour\r\nHeat one tablespoon of pork fat or vegetable oil in a pot and fry the meat on all sides until it gets browned. Once the meat is cooked, transfer it to a plate and add another tablespoon of fat to the pot\r\nCut the onions very fine, peel the carrots and shred it using a grater. Cook the onions and carrots over low heat for 15 minutes. You can salt the vegetables a little to make them soften faster\r\nOnce the vegetables have browned and become slightly mushy, add the meat and bay leaves and garlic. Pour over with wine and simmer for 10-15 minutes to allow the alcohol to evaporate. Now is the right time to add 2/3 the amount of liquid\r\nCover the pot and cook over low heat for an hour, stirring occasionally. After the first hour, pour over the rest of the water or stock and cook for another 30-45 minutes\r\nAllow the stew to cool slightly and serve it with a sprinkle of chopped parsley and few slices of fresh hot pepper if you like to spice it up a bit\r\nSlice ​​some fresh bread, season the salad and simply enjoying these wonderful flavors",
+  "description": "A hearty Croatian stew made with beef, potatoes, onions, and paprika, often served with a side of bread or pasta. The dish has a rich and savory flavor and is a popular comfort food in Croatia.",
+  "thumb": "https://www.themealdb.com/images/media/meals/n1hcou1628770088.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/emdkxukiguq1jvu13il7.jpg",
+  "time": "135",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=ipEz5u2T7KM",
+  "tags": [
+    "Soup"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365d"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372e"
+      },
+      "measure": "2 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3684"
+      },
+      "measure": "2 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "2 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3751"
+      },
+      "measure": "200ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "2 Litres"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3727"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3733"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "2 tbs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ff"
+  },
+  "title": "Mushroom soup with buckwheat",
+  "category": "Side",
+  "area": "Croatian",
+  "instructions": "Chop the onion and garlic, slice the mushrooms and wash the buckwheat. Heat the oil and lightly sauté the onion. Add the mushrooms and the garlic and continue to sauté. Add the salt, vegetable seasoning, buckwheat and the bay leaf and cover with water. Simmer gently and just before it is completely cooked, add pepper, sour cream mixed with flour, the chopped parsley and vinegar to taste.",
+  "description": "Mushroom soup with buckwheat is a nourishing and delicious soup made with earthy mushrooms, buckwheat, and vegetables. It's hearty, comforting, and perfect for chilly days.",
+  "thumb": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/e3mmsftqzzla4vxqqqz5.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=M1ok7mG9-Qc",
+  "tags": [
+    "Warming",
+    " Soup"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3726"
+      },
+      "measure": "150g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3898"
+      },
+      "measure": "50g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "4 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "40g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "2 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378b"
+      },
+      "measure": "1tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e376b"
+      },
+      "measure": "50 ml "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e385a"
+      },
+      "measure": "Dash"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "Top"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889901"
+  },
+  "title": "Burek",
+  "category": "Side",
+  "area": "Croatian",
+  "instructions": "Fry the finely chopped onions and minced meat in oil. Add the salt and pepper. Grease a round baking tray and put a layer of pastry in it. Cover with a thin layer of filling and cover this with another layer of filo pastry which must be well coated in oil. Put another layer of filling and cover with pastry. When you have five or six layers, cover with filo pastry, bake at 200ºC/392ºF for half an hour and cut in quarters and serve.",
+  "description": "Burek is a traditional Balkan pastry made with phyllo dough and a savory filling, usually of meat, cheese, or vegetables. It's a popular street food in the region and can be enjoyed as a snack or a meal.",
+  "thumb": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/n2azvqwqwoggte9tevai.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=YsJXZwE5pdY",
+  "tags": [
+    "Streetfood",
+    " Onthego"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3867"
+      },
+      "measure": "1 Packet"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37c2"
+      },
+      "measure": "150g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "150g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372b"
+      },
+      "measure": "40g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "Dash"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "Dash"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889900"
+  },
+  "title": "Fresh sardines",
+  "category": "Side",
+  "area": "Croatian",
+  "instructions": "Wash the fish under the cold tap. Roll in the flour and deep fry in oil until crispy. Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon.",
+  "description": "Fresh sardines are a simple, flavorful, and nutritious seafood dish that can be grilled, fried, or baked. They are rich in omega-3 fatty acids, protein, and minerals, and are a staple of Mediterranean cuisine.",
+  "thumb": "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561435/cgo76zumeiimmmuo0yge.jpg",
+  "time": "15",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=DDaZoXP1Mdc",
+  "tags": [
+    "Fresh"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3896"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "Dash"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "To Glaze"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "Dash"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889905"
+  },
+  "title": "Lamb and Lemon Souvlaki",
+  "category": "Lamb",
+  "area": "Greek",
+  "instructions": "Pound the garlic with sea salt in a pestle and mortar (or use a small food processor), until the garlic forms a paste. Whisk together the oil, lemon juice, zest, dill and garlic. Mix in the lamb and combine well. Cover and marinate for at least 2 hrs or overnight in the fridge. If you’re going to use bamboo skewers, soak them in cold water.\r\n\r\nIf you’ve prepared the lamb the previous day, take it out of the fridge 30 mins before cooking. Thread the meat onto the soaked or metal skewers. Heat the grill to high or have a hot griddle pan or barbecue ready. Cook the skewers for 2-3 mins on each side, basting with the remaining marinade. Heat the pitta or flatbreads briefly, then stuff with the souvlaki. Add Greek salad (see 'Goes well with', right) and Tzatziki (below), if you like.",
+  "description": "Lamb and Lemon Souvlaki is a popular Greek dish made with marinated lamb, skewered and grilled until tender and juicy, and served with lemon wedges and pita bread. It's a delicious and flavorful dish that's perfect for a summer barbecue or a casual dinner.",
+  "thumb": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/fg2ltsqftguu5x9euosx.jpg",
+  "time": "135",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=krR4rhjR75Y",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "2 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3761"
+      },
+      "measure": "2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "4 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3711"
+      },
+      "measure": "Zest and juice of 1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c1"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37bd"
+      },
+      "measure": "750g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e387d"
+      },
+      "measure": "To serve"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889907"
+  },
+  "title": "Feteer Meshaltet",
+  "category": "Side",
+  "area": "Egyptian",
+  "instructions": "Mix the flour and salt then pour one cup of water and start kneading.\r\nIf you feel the dough is still not coming together or too dry, gradually add the remaining water until you get a dough that is very elastic so that when you pull it and it won’t be torn.\r\nLet the dough rest for just 10 minutes then divide the dough into 6-8 balls depending on the size you want for your feteer.\r\nWarm up the butter/ghee or oil you are using and pour into a deep bowl.\r\nImmerse the dough balls into the warm butter. Let it rest for 15 to 20 minutes.\r\nPreheat oven to 550F.\r\nStretch the first ball with your hands on a clean countertop. Stretch it as thin as you can, the goal here is to see your countertop through the dough.\r\nFold the dough over itself to form a square brushing in between folds with the butter mixture.\r\nSet aside and start making the next ball.\r\nStretch the second one thin as we have done for the first ball.\r\nPlace the previous one on the middle seam side down. Fold the outer one over brushing with more butter mixture as you fold. Set aside.\r\nKeep doing this for the third and fourth balls. Now we have one ready, place on a 10 inch baking/pie dish seam side down and brush the top with more butter.\r\nRepeat for the remaining 4 balls to make a second one. With your hands lightly press the folded feteer to spread it on the baking dish.\r\nPlace in preheated oven for 10 minutes when the feteer starts puffing turn on the broiler to brown the top.\r\nWhen it is done add little butter on top and cover so it won’t get dry.",
+  "description": "A traditional Egyptian pastry made with layers of flaky dough, butter, and honey, baked until golden brown and served warm with a sprinkle of powdered sugar.",
+  "thumb": "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/hg8cdpukxxsedf3ghoyz.jpg",
+  "time": "60",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=-mW1unsVhFU",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "4 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "1 1/2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1/4 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3828"
+      },
+      "measure": "1 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "1/4 cup"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889906"
+  },
+  "title": "Tamiya",
+  "category": "Vegetarian",
+  "area": "Egyptian",
+  "instructions": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel.\r\nGrind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes.\r\nShape the bean mixture into 1-inch balls.Flatten slightly and coat with flour.\r\nHeat at least 1½-inches of oil over medium heat to 365 degrees.\r\nFry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce.",
+  "description": "Tamiya is a popular Egyptian street food made with mashed fava beans, herbs, and spices, shaped into patties and deep-fried until crispy. It's a vegan and gluten-free dish that's packed with flavor and protein and can be enjoyed as a snack or a meal.",
+  "thumb": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/skbjayhcwikg5sp8h4on.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=mulqW-J3Yy4",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3842"
+      },
+      "measure": "3 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3770"
+      },
+      "measure": "6"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "1/4 cup"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b8"
+      },
+      "measure": "2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3665"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3688"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "Spinkling"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "As required"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889908"
+  },
+  "title": "Cashew Ghoriba Biscuits",
+  "category": "Dessert",
+  "area": "Tunisian",
+  "instructions": "Preheat the oven at 180 C / Gas 4. Line a baking tray with greaseproof paper.\r\nIn a bowl, mix the cashews and icing sugar. Add the egg yolks and orange blossom water and mix to a smooth homogeneous paste.\r\nTake lumps of the cashew paste and shape into small balls. Roll the balls in icing sugar and transfer to the baking tray. Push an almond in the centre of each ghribia.\r\nBake until the biscuits are lightly golden, about 20 minutes. Keep an eye on them, they burn quickly.",
+  "description": "A traditional Moroccan cookie made with ground cashews, sugar, and spices, and dusted with powdered sugar.",
+  "thumb": "https://www.themealdb.com/images/media/meals/t3r3ka1560461972.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/gakdnvxbbyj3psrf1hvd.jpg",
+  "time": "20",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=IqXEZUk4hWI",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3685"
+      },
+      "measure": "250g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e379d"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c9"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3868"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3814"
+      },
+      "measure": "100g "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889887"
+  },
+  "title": "Sugar Pie",
+  "category": "Dessert",
+  "area": "Canadian",
+  "instructions": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish.\r\nPlace the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter. Pour the batter into the prepared pie dish.\r\nBake in the preheated oven for 35 minutes; remove pie, and cover the rim with aluminum foil to prevent burning. Return to oven, and bake until the middle sets and the top forms a crusty layer, about 15 more minutes. Let the pie cool to room temperature, then refrigerate for at least 1 hour before serving.",
+  "description": "A traditional dessert from Quebec, Canada, made with a flaky pastry crust filled with a rich mixture of brown sugar, cream, and flour.",
+  "thumb": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561362/gbkaxc4msuu7zdbeshlx.jpg",
+  "time": "50",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=uVQ66jiL-Dc",
+  "tags": [
+    "Pie",
+    "Desert"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733243"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367d"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "¼ cup"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3786"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3743"
+      },
+      "measure": "½ cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "1 1/2 cups "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898ce"
+  },
+  "title": "Pizza Express Margherita",
+  "category": "Miscellaneous",
+  "area": "Italian",
+  "instructions": "1 Preheat the oven to 230°C.\r\n\r\n2 Add the sugar and crumble the fresh yeast into warm water.\r\n\r\n3 Allow the mixture to stand for 10 – 15 minutes in a warm place (we find a windowsill on a sunny day works best) until froth develops on the surface.\r\n\r\n4 Sift the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture and olive oil.\r\n\r\n5 Lightly flour your hands, and slowly mix the ingredients together until they bind.\r\n\r\n6 Generously dust your surface with flour.\r\n\r\n7 Throw down the dough and begin kneading for 10 minutes until smooth, silky and soft.\r\n\r\n8 Place in a lightly oiled, non-stick baking tray (we use a round one, but any shape will do!)\r\n\r\n9 Spread the passata on top making sure you go to the edge.\r\n\r\n10 Evenly place the mozzarella (or other cheese) on top, season with the oregano and black pepper, then drizzle with a little olive oil.\r\n\r\n11 Cook in the oven for 10 – 12 minutes until the cheese slightly colours.\r\n\r\n12 When ready, place the basil leaf on top and tuck in!",
+  "description": "A classic Italian pizza topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil, baked to crispy perfection in a wood-fired oven.",
+  "thumb": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561438/ewbnuxsxim3hoekpnznx.jpg",
+  "time": "27",
+  "popularity": 1,
+  "favorites": [
+    {
+      "$oid": "640e11282752a54004e7b2be"
+    },
+    {
+      "$oid": "641853bb44a95ebcfa8b65b3"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "6412ce7b1688c90e5427b00b"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=Mt5lgUZRoUg",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679488691623"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "150ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3818"
+      },
+      "measure": "15g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3743"
+      },
+      "measure": "225g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1 1/2 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "Drizzle"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ba"
+      },
+      "measure": "80g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37d0"
+      },
+      "measure": "70g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3731"
+      },
+      "measure": "Peeled and Sliced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3667"
+      },
+      "measure": "Leaves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3672"
+      },
+      "measure": "Pinch"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898df"
+  },
+  "title": "Fruit and Cream Cheese Breakfast Pastries",
+  "category": "Breakfast",
+  "area": "American",
+  "instructions": "Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper. In a bowl, mix cream cheese, sugar, and vanilla until fully combined. Lightly flour the surface and roll out puff pastry on top to flatten. Cut each sheet of puff pastry into 9 equal squares. On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.\r\nNOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends. Your pastry should look like a picture frame with two corners still intact.\r\nTake the upper right corner and fold down towards the inner bottom corner. You will now have a diamond shape.\r\nPlace 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.\r\nRepeat with the remaining pastry squares and place them onto the parchment covered baking sheet.\r\nBake for 15-20 minutes or until pastry is golden brown and puffed.\r\nEnjoy!\r\n",
+  "description": "A delicious breakfast treat, Fruit and Cream Cheese Breakfast Pastries are flaky, buttery pastries filled with a sweet cream cheese and fruit filling, and then baked until golden brown.",
+  "thumb": "https://www.themealdb.com/images/media/meals/1543774956.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/lj4kfx1zh4l8vejsgdle.jpg",
+  "time": "20",
+  "popularity": 8,
+  "favorites": [
+    {
+      "$oid": "6412e5c379030e6a7b294f7d"
+    },
+    {
+      "$oid": "64135631f9ab2e3d387201b9"
+    },
+    {
+      "$oid": "6418a32ef48d9be56b608de0"
+    },
+    {
+      "$oid": "641aff07df4a1f25b1613f76"
+    },
+    {
+      "$oid": "641ab80cdf4a1f25b1611694"
+    },
+    {
+      "$oid": "641b56b15ece70f6eef42433"
+    },
+    {
+      "$oid": "641b58b75ece70f6eef4253e"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "6413121edc4701f712098c82"
+    },
+    {
+      "$oid": "6412e5c379030e6a7b294f7d"
+    },
+    {
+      "$oid": "6412ce7b1688c90e5427b00b"
+    },
+    {
+      "$oid": "6413076adc4701f7120988f5"
+    },
+    {
+      "$oid": "641807a63c1d9f12cba908c8"
+    },
+    {
+      "$oid": "6418be09d139a9eed6c3ff87"
+    },
+    {
+      "$oid": "641b56b15ece70f6eef42433"
+    },
+    {
+      "$oid": "641b1a07df4a1f25b1614a5a"
+    }
+  ],
+  "youtube": "",
+  "tags": [
+    "Breakfast",
+    "Summer"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679526041368"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e379c"
+      },
+      "measure": "1 1/4 oz "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 1/4 cup"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3786"
+      },
+      "measure": "1 teaspoon"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "To your taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3748"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3773"
+      },
+      "measure": "To your taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37d5"
+      },
+      "measure": "To your taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e380b"
+      },
+      "measure": "To your taste"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e3"
+  },
+  "title": "Tonkatsu pork",
+  "category": "Pork",
+  "area": "Japanese",
+  "instructions": "STEP 1\r\nRemove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness – you can do this using a meat tenderiser or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness – this step will ensure the meat is as succulent as possible.\r\n\r\nSTEP 2\r\nPut the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs.\r\n\r\nSTEP 3\r\nIn a large frying or sauté pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C – if you don’t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops.\r\n\r\nSTEP 4\r\nWhile the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it’s particularly thick. Slice the tonkatsu and serve drizzled with the sauce.",
+  "description": "A Japanese dish, Tonkatsu pork is a breaded and deep-fried pork cutlet that is crispy on the outside and tender on the inside, and typically served with rice, cabbage, and tonkatsu sauce.",
+  "thumb": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/mnvowdvdb45p7zjqmmff.jpg",
+  "time": "35",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=aASr5x0d3Ys",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3874"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2 Beaten "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3679"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "Fry"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377d"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3798"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3732"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3687"
+      },
+      "measure": "2 tblsp "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898b8"
+  },
+  "title": "Stamppot",
+  "category": "Pork",
+  "area": "Dutch",
+  "instructions": "\r\nWash and peel the potatoes and cut into similarly sized pieces for even cooking.\r\n\r\nIn a large soup pot, boil the potatoes and the bay leaves in salted water for 20 minutes. Discard the bay leaves.\r\n\r\nIf you're not using a bag of ready-cut curly kale, wash the bunches thoroughly under cool running water to get rid of all soil—you wouldn't want that gritty texture in your finished dish. Trim any coarse stems and discard any brown leaves. With a sharp knife, cut the curly kale into thin strips.\r\n\r\nPeel and chop the shallots.\r\n\r\nIn a frying pan or skillet, melt 1 tbsp. of butter and saute the shallots for a few minutes before adding the curly kale and 2 tbsp. of water. Season and cook for about 10 minutes, or until tender.\r\n\r\nWarm the milk on the stove or in the microwave.\r\n\r\nDrain, shake and dry the potatoes with kitchen towels before mashing with a potato masher or ricer. Working quickly, add the warm milk and the remaining butter. Season to taste with nutmeg, salt, and pepper. \r\n\r\nMix the cooked curly kale through the cooked mashed potato mixture.\r\n\r\nTop with slices of the smoked sausage and serve hot with your favorite mustard or gravy.\r\n\r\nServe and enjoy!",
+  "description": "A traditional Dutch dish made with mashed potatoes and vegetables, often served with smoked sausage or bacon.",
+  "thumb": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561360/jpzsyfrrx1kc4na5ysht.jpg",
+  "time": "40",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=hTrSXryX31A",
+  "tags": [
+    "Savory",
+    "Breakfast"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3746"
+      },
+      "measure": "1.5kg"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "2 leaves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3765"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3707"
+      },
+      "measure": "750g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3760"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "500ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372a"
+      },
+      "measure": "Grated"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "Pinch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "Pinch"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e0"
+  },
+  "title": "Sledz w Oleju (Polish Herrings)",
+  "category": "Seafood",
+  "area": "Polish",
+  "instructions": "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time.\r\n\r\nDrain thoroughly and slice herring into bite-size pieces.\r\n\r\nPlace in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar.\r\n\r\nRefrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks.\r\n\r\nServe with finely chopped onion or onion slices, lemon, and parsley or dill.",
+  "description": "A popular Polish appetizer, Sledz w Oleju is a dish of marinated herring fillets served in a tangy marinade of vinegar, onions, and spices.",
+  "thumb": "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/iihtylycrpfirltsbi0o.jpg",
+  "time": "2940",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=v6I3GZlBkOM",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191326"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e388f"
+      },
+      "measure": "8"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 sliced"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "1/2 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3860"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889902"
+  },
+  "title": "Walnut Roll Gužvara",
+  "category": "Dessert",
+  "area": "Croatian",
+  "instructions": "Mix all the ingredients for the dough together and knead well. Cover the dough and put to rise until doubled in size which should take about 2 hours. Knock back the dough and knead lightly.\r\n\r\nDivide the dough into two equal pieces; roll each piece into an oblong about 12 inches by 8 inches. Mix the filling ingredients together and divide between the dough, spreading over each piece. Roll up the oblongs as tightly as possible to give two 12 inch sausages. Place these side by side, touching each other, on a greased baking sheet. Cover and leave to rise for about 40 minutes. Heat oven to 200ºC (425ºF). Bake for 30-35 minutes until well risen and golden brown. Bread should sound hollow when the base is tapped.\r\n\r\nRemove from oven and brush the hot bread top with milk. Sift with a generous covering of icing sugar.",
+  "description": "Walnut Roll Gužvara is a sweet and nutty dessert made with a tender yeast dough, ground walnuts, sugar, and spices. It's a traditional pastry in Croatia and the Balkans, often served on holidays and special occasions.",
+  "thumb": "https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/vvqmkq1bvffttjhtofij.jpg",
+  "time": "175",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=Q_akngSJVrQ",
+  "tags": [
+    "Nutty"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435661"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36d7"
+      },
+      "measure": "450g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3687"
+      },
+      "measure": "55g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3818"
+      },
+      "measure": "2 parts "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e371f"
+      },
+      "measure": "6 oz "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "2 Beaten "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "30g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37d7"
+      },
+      "measure": "140g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367d"
+      },
+      "measure": "85g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a5"
+      },
+      "measure": "1 tsp "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e379d"
+      },
+      "measure": "To Glaze"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898f7"
+  },
+  "title": "Nasi lemak",
+  "category": "Seafood",
+  "area": "Malaysian",
+  "instructions": "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done.\r\n\r\n Step 2\r\nPlace eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber.\r\n\r\n Step 3\r\nMeanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet.\r\n\r\n Step 4\r\nHeat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes.\r\n\r\n Step 5\r\nServe the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs.",
+  "description": "A fragrant Malaysian rice dish cooked in coconut milk, served with a variety of toppings like crispy anchovies, roasted peanuts, cucumber, and spicy sambal sauce. Often served as a popular breakfast dish.",
+  "thumb": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/mediwf3rn2ldjzoz8rjo.jpg",
+  "time": "40",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=IUIs4C86Ilo",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679314435660"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ab"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e378f"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36eb"
+      },
+      "measure": "1/4 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e8"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366a"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3753"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ca"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b7"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373b"
+      },
+      "measure": "1 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3865"
+      },
+      "measure": "4 oz "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "3 cloves"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3765"
+      },
+      "measure": "3"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e369c"
+      },
+      "measure": "2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3778"
+      },
+      "measure": "1/3 cup"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889903"
+  },
+  "title": "Chivito uruguayo",
+  "category": "Beef",
+  "area": "Unknown",
+  "instructions": "Crush the meat so that it is finite and we put it on a griddle to brown. Put the eggs, bacon and ham to fry.\r\nCut the bread in half, put the beef brisket, the fried eggs, the bacon, the ham, the mozzarella, the tomato and the lettuce. Cover with the other half of the bread and serve.",
+  "description": "Chivito uruguayo is a hearty and flavorful sandwich made with beef, bacon, ham, cheese, lettuce, tomato, and mayonnaise, served on a crusty roll. It's a popular street food in Uruguay and a must-try for meat lovers.",
+  "thumb": "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/ldtyimeij0bhcivsudvx.jpg",
+  "time": "30",
+  "popularity": 0,
+  "favorites": [
+    {
+      "$oid": "6419fc19eefa4b0ab8eaa5e8"
+    }
+  ],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=0PXbbL1QdaA&ab_channel=D%C3%ADadeCocina",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679439317890"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e366c"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3678"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3715"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37af"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37fd"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37d0"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3664"
+      },
+      "measure": "100g "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3820"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e889904"
+  },
+  "title": "Fettuccine Alfredo",
+  "category": "Pasta",
+  "area": "Italian",
+  "instructions": "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts. Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce. Garnish with parsley, and it's ready.",
+  "description": "Fettuccine Alfredo is a classic Italian pasta dish made with fettuccine pasta, butter, cream, and Parmesan cheese. It's a simple yet decadent dish that's perfect for a special occasion or a cozy dinner at home.",
+  "thumb": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/js3fk2cbbiu4voaq5qto.jpg",
+  "time": "20",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=LPPcNPdq_j4",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679488918096"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37a2"
+      },
+      "measure": "1 lb"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36fc"
+      },
+      "measure": "1/2 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "1/2 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3735"
+      },
+      "measure": "1/2 cup "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3738"
+      },
+      "measure": "2 tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3672"
+      },
+      "measure": " "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898de"
+  },
+  "title": "Koshari",
+  "category": "Vegetarian",
+  "area": "Egyptian",
+  "instructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+  "description": "A popular Egyptian street food, Koshari is a hearty vegetarian dish made from rice, lentils, chickpeas, pasta, and a spicy tomato sauce, topped with fried onions and garlic.",
+  "thumb": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561437/qkknuvlednnsxc2snazj.jpg",
+  "time": "50",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=y0d2ZMZBW4Y",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191327"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367b"
+      },
+      "measure": "1 1/2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3753"
+      },
+      "measure": "1 1/2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36af"
+      },
+      "measure": "1/2 tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3718"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3698"
+      },
+      "measure": "Can"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 large"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "Sprinking"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3789"
+      },
+      "measure": "1/2 cup "
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898e4"
+  },
+  "title": "Egyptian Fatteh",
+  "category": "Beef",
+  "area": "Egyptian",
+  "instructions": "To prepare bread for bottom of dish: Take pita bread and rip into bite size pieces. In a frying pan, add about a 1/4 stick of butter, add bread pieces and fry until golden brown and crisp. Put these pieces in a glass baking dish, preferably a square sized dish. Set aside.\r\nThen add to same pan, a little more butter, salt, approximately 2 cloves of crushed fresh garlic, and a teaspoon or so of cumin stir around a bit until you can smell aroma, then add fried bread pieces to this mixture, stir to coat bread and put back into glass baking dish. Set aside.\r\nTo prepare meat: put some butter in a pot, stir fry meat until brown, add 1 onion quartered, salt & pepper, 1 cube of chicken bouillon and water to cover meat. Bring to a boil, turn down to simmer, cover and cook until tender, approximately 2 hours. After meat has cooled, take out chunks of meat and put in a bowl, set aside. Reserve soup from the meat separately.\r\nTo prepare the rice: Put some butter into a pot, add shareya (fideo noodles) like a handful or so, keep stirring until golden brown, not too dark, but very golden. Then add two cups of rice, stir a little bit until some of the rice turns an opaque white. Add 2-1/4 cups of water and salt to taste. Bring to a boil, cover and turn down to simmer, cook until tender. Test the rice tenderness after about 35 minutes.\r\nNow take some of the soup from meat and add to the top of the bread pieces in baking dish to saturate.Add cooked rice on top of bread pieces. Slowly spoon remainder of soup onto rice, looking at glass dish sides to see level of soup, should reach just to top of rice, don’t worry, this doesn’t have to be exact. Now you’re ready to make the sauce and fry the meat to put on top.\r\nTo prepare red sauce: In a pan, add a little oil or butter, crushed tomato, a half teaspoon of tomato paste, salt & pepper, 2 cloves of fresh crushed garlic and cumin. Add also approximately 3 tablespoons of vinegar, stir this until you smell aroma and it is a bit smooth. It should be a bit thick, not watery, but if too thick you can add a bit of water. Spread with a wooden spoon atop the rice to cover.\r\nTo fry meat: In a pan add a bit of butter or oil, the meat, just a touch of tomato paste, about a tablespoon of fresh crushed garlic, salt & pepper, a teaspoon of cumin. Cook until meat is golden fried.\r\nSpoon this atop the rice and serve. Enjoy!",
+  "description": "A popular Egyptian dish, Fatteh is a layered dish made from bread, rice, chickpeas, and a yogurt or tahini sauce, and typically served with meat or chicken and nuts.",
+  "thumb": "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/kl527zdqawh16x07aext.jpg",
+  "time": "205",
+  "popularity": 1,
+  "favorites": [
+    {
+      "$oid": "6419fc19eefa4b0ab8eaa5e8"
+    },
+    {
+      "$oid": "6418a645e05e5b3d5b47ae8d"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "6418a645e05e5b3d5b47ae8d"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=WLuOHkDE4A4",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679491490492"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e365d"
+      },
+      "measure": "1lb"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37b2"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377f"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "4"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377e"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3753"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3853"
+      },
+      "measure": "1/4 cup"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e367e"
+      },
+      "measure": "1/4 cup"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "2 cups "
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e387d"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b8"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e385a"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e375e"
+      },
+      "measure": "To taste"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e373f"
+      },
+      "measure": "To taste"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640cd5ac2d9fecf12e8898cd"
+  },
+  "title": "Gigantes Plaki",
+  "category": "Vegetarian",
+  "area": "Greek",
+  "instructions": "Soak the beans overnight in plenty of water. Drain, rinse, then place in a pan covered with water. Bring to the boil, reduce the heat, then simmer for approx 50 mins until slightly tender but not soft. Drain, then set aside.\r\n\r\nHeat oven to 180C/160C fan/gas 4. Heat the olive oil in a large frying pan, tip in the onion and garlic, then cook over a medium heat for 10 mins until softened but not browned. Add the tomato purée, cook for a further min, add remaining ingredients, then simmer for 2-3 mins. Season generously, then stir in the beans. Tip into a large ovenproof dish, then bake for approximately 1 hr, uncovered and without stirring, until the beans are tender. The beans will absorb all the fabulous flavours and the sauce will thicken. Allow to cool, then scatter with parsley and drizzle with a little more olive oil to serve.",
+  "description": "A hearty Greek dish made with giant white beans, simmered in a rich tomato sauce with onions, garlic, and herbs, served hot and delicious with crusty bread.",
+  "thumb": "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678561436/jkbupplmgo5dp90byqc7.jpg",
+  "time": "480",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=e-2K2iyPASA",
+  "tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191327"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37cc"
+      },
+      "measure": "400g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "3 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e37ae"
+      },
+      "measure": "1 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e4"
+      },
+      "measure": "2 chopped"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377e"
+      },
+      "measure": "2 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377f"
+      },
+      "measure": "800g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3774"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c4"
+      },
+      "measure": "1 tbs"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a5"
+      },
+      "measure": "Pinch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a0"
+      },
+      "measure": "2 tbs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "640f3c097eca20453198dfae"
+  },
+  "title": "Spaghetti Bolognese",
+  "category": "Beef",
+  "area": "Italian",
+  "instructions": "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.\r\n\r\nStir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.\r\n\r\nMeanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top.",
+  "description": "An Italian pasta dish made with spaghetti and a meat-based sauce, typically containing beef, tomatoes, onions, garlic, and herbs.",
+  "thumb": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678560401/huqdxgwkvbhsfjqtexsm.jpg",
+  "time": "",
+  "popularity": 0,
+  "favorites": [],
+  "likes": [],
+  "youtube": "https://www.youtube.com/watch?v=-gF8d-fitkU",
+  "tags": [
+    "Pasta",
+    "Meat"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679054191327"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372e"
+      },
+      "measure": "2"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "1tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36e3"
+      },
+      "measure": "1 clove"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e370f"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3726"
+      },
+      "measure": "90g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36c4"
+      },
+      "measure": "1tsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377f"
+      },
+      "measure": "400g can"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36ff"
+      },
+      "measure": "300ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e377e"
+      },
+      "measure": "1tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3798"
+      },
+      "measure": "1tbsp"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e376e"
+      },
+      "measure": "350g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3735"
+      },
+      "measure": "Topping"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64144c7df5f602afeb513263"
+  },
+  "title": "Garides Saganaki",
+  "category": "Seafood",
+  "area": "Greek",
+  "instructions": "Place the prawns in a pot and add enough water to cover. Boil for 5 minutes. Drain, reserving the liquid, and set aside.\r\nHeat 2 tablespoons of oil in a saucepan. Add the onion; cook and stir until soft. Mix in the parsley, wine, tomatoes, garlic and remaining olive oil. Simmer, stirring occasionally, for about 30 minutes, or until the sauce is thickened.\r\nWhile the sauce is simmering, the prawns should become cool enough to handle. First remove the legs by pinching them, and then pull off the shells, leaving the head and tail on.\r\nWhen the sauce has thickened, stir in the prawns. Bring to a simmer again if the sauce has cooled with the prawns, and cook for about 5 minutes. Add the feta and remove from the heat. Let stand until the cheese starts to melt. Serve warm with slices of crusty bread.\r\nThough completely untraditional, you can add a few tablespoons of stock or passata to this recipe to make a delicious pasta sauce. Toss with pasta after adding the feta, and serve.",
+  "description": "A Greek dish made with prawns, tomatoes, feta cheese, and herbs, cooked in a tomato-based sauce.",
+  "thumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+  "preview": "https://res.cloudinary.com/ddbvbv5sp/image/upload/v1678560401/bs1o0on0juj2mzgfcs3e.jpg",
+  "time": "45",
+  "popularity": 3,
+  "favorites": [
+    {
+      "$oid": "640f3d907814e38495198dd3"
+    },
+    {
+      "$oid": "640d86ebfb0e621e4c74194d"
+    },
+    {
+      "$oid": "641b56b15ece70f6eef42433"
+    }
+  ],
+  "likes": [
+    {
+      "$oid": "640d86ebfb0e621e4c74194d"
+    },
+    {
+      "$oid": "6412131bf5f602afeb51322b"
+    },
+    {
+      "$oid": "641b56b15ece70f6eef42433"
+    }
+  ],
+  "youtube": "https://www.youtube.com/watch?v=uO0ejc85zSE",
+  "tags": [
+    "Seafood",
+    "Shellfish"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678562733239"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679513739106"
+    }
+  },
+  "ingredients": [
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e374a"
+      },
+      "measure": "500g"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e372c"
+      },
+      "measure": "3 tablespoons"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e369f"
+      },
+      "measure": "1"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36df"
+      },
+      "measure": "pinch"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3794"
+      },
+      "measure": "250ml"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36a1"
+      },
+      "measure": "1 (400g) tin"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e3720"
+      },
+      "measure": "1/2 teaspoon"
+    },
+    {
+      "id": {
+        "$oid": "640c2dd963a319ea671e36b6"
+      },
+      "measure": "1 (200g) pack"
+    }
+  ]
+}]

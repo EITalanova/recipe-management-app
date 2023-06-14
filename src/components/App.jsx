@@ -1,16 +1,18 @@
+import { lazy } from "react";
+import { Routes, Route, Navigate, useLocatoin } from 'react-router-dom';
+
+
+const Main = lazy(() => import('../pages/Main'));
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+  <>
+      <Routes>
+        <Route path="/" element={
+          <Main />
+        } />
+
+        </Routes>
+    </>
   );
 };
