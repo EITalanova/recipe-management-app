@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EITalanova/recipe-management-app.git/static/css/main.7acaea2f.css",
+    "main.js": "/EITalanova/recipe-management-app.git/static/js/main.0f534be6.js",
+    "index.html": "/EITalanova/recipe-management-app.git/index.html",
+    "main.7acaea2f.css.map": "/EITalanova/recipe-management-app.git/static/css/main.7acaea2f.css.map",
+    "main.0f534be6.js.map": "/EITalanova/recipe-management-app.git/static/js/main.0f534be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0f534be6.js"
+  ]
+}
