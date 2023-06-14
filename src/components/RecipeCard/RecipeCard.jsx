@@ -7,7 +7,7 @@ export const RecipeCard = ({ recipe }) => {
   const { title, preview, _id, time, description } = recipe;
   return (
     <li className={style.recipeEll}>
-      <a href={`todo-list-github-api/recipe/${_id.$oid}`}>
+      <a href={`recipe-management-app/recipe/${_id.$oid}`}>
         <img className={style.recipeImg} src={preview} alt="recipe prewiew" />
         <p className={style.recipeTitle}>{title}</p>
         <div className={style.recipeOverlay}>
